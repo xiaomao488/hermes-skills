@@ -6,6 +6,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+中文文档 | [English](README_EN.md)
+
 这是一套用于Hermes Agent的技能集，专注于从网页和GitHub学习技术文档并建立知识库。
 
 ## 📚 技能列表
@@ -86,6 +88,11 @@ python3 github-project-learner/scripts/learn_project.py snapcast/snapcast
 
 - [使用示例](EXAMPLES.md) - 详细的使用指南和API文档
 - [贡献指南](CONTRIBUTING.md) - 如何为项目做贡献
+- [设置指南](SETUP_GUIDE.md) - 完整的安装配置说明
+- [CDP故障排查](CDP_TROUBLESHOOTING.md) - 浏览器连接问题解决
+- [快速设置清单](QUICK_SETUP_CHECKLIST.md) - 快速上手检查清单
+- [更新日志](CHANGELOG.md) - 版本历史和更新记录
+- [欢迎页面](WELCOME.md) - 新贡献者指南
 - [许可证](LICENSE) - MIT开源许可证
 
 ## 🛠️ 依赖

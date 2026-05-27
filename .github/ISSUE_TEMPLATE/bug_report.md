@@ -1,46 +1,46 @@
 ---
-name: Bug报告
-about: 报告一个问题帮助我们改进
+name: Bug Report
+about: Create a report to help us improve
 title: '[BUG] '
 labels: bug
 assignees: ''
 ---
 
-## 问题描述
+## 🐛 Bug Description
 
-简要描述遇到的问题。
+A clear and concise description of what the bug is.
 
-## 复现步骤
+## 📋 Steps to Reproduce
 
-1. 执行命令 '...'
-2. 使用参数 '...'
-3. 看到错误 '...'
+1. Go to '...'
+2. Run command '...'
+3. See error
 
-## 预期行为
+## ✅ Expected Behavior
 
-描述你期望发生什么。
+A clear and concise description of what you expected to happen.
 
-## 实际行为
+## ❌ Actual Behavior
 
-描述实际发生了什么。
+What actually happened.
 
-## 环境信息
+## 📸 Screenshots
 
-- 操作系统: [例如 Windows 11, macOS 14, Ubuntu 22.04]
-- Python版本: [例如 3.9.7]
-- 技能名称: [例如 web-documentation-reader]
-- 相关依赖版本: [例如 requests==2.31.0]
+If applicable, add screenshots to help explain your problem.
 
-## 错误信息
+## 🖥️ Environment
+
+- OS: [e.g. Windows 10, Ubuntu 22.04, macOS 13]
+- Python Version: [e.g. 3.8, 3.10]
+- Hermes Agent Version: [e.g. 1.0.0]
+- Skill Version: [e.g. commit hash or release tag]
+
+## 📝 Additional Context
+
+Add any other context about the problem here.
+
+## 🔍 Error Logs
 
 ```
-粘贴完整的错误信息或日志
+Paste relevant error logs here
 ```
-
-## 截图
-
-如果适用，添加截图帮助解释问题。
-
-## 附加信息
-
-添加任何其他有关问题的信息。

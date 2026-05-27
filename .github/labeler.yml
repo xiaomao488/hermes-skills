@@ -1,0 +1,31 @@
+# Label configuration for auto-labeling issues and PRs
+
+# Documentation related
+documentation:
+  - '**/*.md'
+  - 'docs/**/*'
+
+# Python code
+python:
+  - '**/*.py'
+  - 'requirements.txt'
+
+# Skills
+web-documentation-reader:
+  - 'web-documentation-reader/**/*'
+
+github-project-learner:
+  - 'github-project-learner/**/*'
+
+# Configuration
+configuration:
+  - '**/*.yaml'
+  - '**/*.yml'
+  - '**/*.json'
+  - '.github/**/*'
+
+# Scripts
+scripts:
+  - '**/scripts/**/*'
+  - '**/*.sh'
+  - '**/*.bash'

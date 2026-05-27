@@ -1,49 +1,44 @@
 ---
-name: 功能请求
-about: 建议一个新功能或改进
+name: Feature Request
+about: Suggest an idea for this project
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''
 ---
 
-## 功能描述
+## 💡 Feature Description
 
-清楚简洁地描述你想要的功能。
+A clear and concise description of the feature you'd like to see.
 
-## 使用场景
+## 🎯 Problem Statement
 
-描述这个功能解决什么问题或满足什么需求。
+What problem does this feature solve? Is your feature request related to a problem?
 
-例如：我总是需要 [...] 但是现在 [...]
+Example: I'm always frustrated when [...]
 
-## 期望的解决方案
+## 🚀 Proposed Solution
 
-描述你希望如何实现这个功能。
+A clear and concise description of what you want to happen.
 
-## 替代方案
+## 🔄 Alternatives Considered
 
-描述你考虑过的其他替代方案或功能。
+A clear and concise description of any alternative solutions or features you've considered.
 
-## 使用示例
+## 📊 Use Cases
 
-如果可能，提供使用示例：
+Describe specific use cases where this feature would be helpful:
 
-```python
-# 期望的使用方式
-result = new_feature(input)
-```
+1. Use case 1...
+2. Use case 2...
 
-或
+## 📝 Additional Context
 
-```bash
-# 期望的命令
-python3 script.py --new-option value
-```
+Add any other context, screenshots, or examples about the feature request here.
 
-## 附加信息
+## ✅ Acceptance Criteria
 
-添加任何其他有关功能请求的信息、截图或参考资料。
+What would make this feature complete?
 
-## 愿意贡献
-
-- [ ] 我愿意提交PR来实现这个功能
+- [ ] Criterion 1
+- [ ] Criterion 2
+- [ ] Criterion 3
